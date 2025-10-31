@@ -35,7 +35,7 @@ WAC supports the following built-in roles.
 
 ----
 
-1- Logging into the  computer 
+1- Log in into the computer 
 
 2- Download `https://www.microsoft.com/en-us/evalcenter/download-windows-admin-center`
 
